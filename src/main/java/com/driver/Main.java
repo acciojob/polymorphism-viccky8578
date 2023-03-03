@@ -20,6 +20,7 @@ public class Main {
             p.product(5, 5);
 
             p.product(2, 3, 4);
+
             p.product(2.2, 2.3);
             //System.out.println(p.product(2,3));
 
